@@ -1,6 +1,7 @@
 # Kerala House Price Prediction
 
 Welcome to the Kerala House Price Prediction project! 🏡✨
+For better understanding about the project you can refer the report which is in pdf format
 
 ## Overview
 
